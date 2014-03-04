@@ -20,7 +20,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Overrides
-PRODUCT_NAME := full_beni
+PRODUCT_NAME := omni_beni
 PRODUCT_DEVICE := beni
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-S5670
