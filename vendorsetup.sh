@@ -21,4 +21,4 @@
 # function: add_lunch_combo generic-eng
 
 
-add_lunch_combo cm_beni-userdebug
+add_lunch_combo omni_beni-userdebug
